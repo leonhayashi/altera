@@ -125,8 +125,6 @@ Pour envoyer un message proxifié :
 ![Altéra commandes](./screenshots/commands-example.gif)
 *Démonstration de l’utilisation des commandes principales.*
 
-> Remplacez les chemins par vos fichiers d’images ou GIFs dans le repo.
-
 ---
 
 ## 📜 Licence
