@@ -4,8 +4,11 @@
 ![Version](https://img.shields.io/badge/Version-2.3.8-purple)
 ![Codename](https://img.shields.io/badge/Codename-noche-black)
 ![Platform](https://img.shields.io/badge/Platform-Discord-blueviolet)
+![Stars](https://img.shields.io/github/stars/leonhayashi/altera?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/leonhayashi/altera?style=flat-square)
+[![Contributeurs](https://img.shields.io/github/contributors/leonhayashi/altera?style=flat-square&color=green)](https://github.com/leonhayashi/altera/graphs/contributors)
 
-[![Invite Bot](https://img.shields.io/badge/Invite%20Altéra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1413781657458053191&scope=bot%20applications.commands&permissions=8)
+[![Invite Altéra](https://img.shields.io/badge/Invite%20Altéra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1413781657458053191&scope=bot%20applications.commands&permissions=8)
 
 Altéra est un bot Discord dédié au soutien des systèmes pluriels/TDI, permettant de gérer les membres de votre système et de proxifier facilement les messages.  
 Le bot est **libre et gratuit**, distribué sous licence **GNU AGPL v3**, garantissant que le code reste accessible à tous — **par le peuple, pour le peuple**.  
