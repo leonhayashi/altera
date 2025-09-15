@@ -1,0 +1,24 @@
+{
+  "name": "altera",
+  "version": "2.3.8",
+  "description": "altera - un bot discord pour les systèmes pluriels permettant aux personnes pluriels de mieux s'intégrer dans des grandes communautés discord.",
+  "author": "Léon Hayashi (林 怜音)",
+  "creationDate": "2022-03-26",
+  "lastUpdate": "2025-09-06",
+  "versionName": "noche",
+  "developer": "Léon Hayashi (林 怜音)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.4.1",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+} 
