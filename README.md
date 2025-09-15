@@ -7,7 +7,7 @@
 ![Stars](https://img.shields.io/github/stars/leonhayashi/altera?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/leonhayashi/altera?style=flat-square)
 [![Contributeurs](https://img.shields.io/github/contributors/leonhayashi/altera?style=flat-square&color=green)](https://github.com/leonhayashi/altera/graphs/contributors)
-[![Droits d’auteur](https://img.shields.io/badge/Droits%20d'auteur-Protégés-red?style=flat-square)](#-droits-dauteur--dérivés)
+[![Droits d’auteur](https://img.shields.io/badge/Droits%20d'auteur-Protégés-red?style=flat-square)](#droits)
 
 
 [![Invite Altéra](https://img.shields.io/badge/Invite%20Altéra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1413781657458053191&scope=bot%20applications.commands&permissions=8)
@@ -26,7 +26,7 @@ Le bot est **libre et gratuit**, distribué sous licence **GNU AGPL v3**, garant
 3. [Quickstart](#-quickstart)  
 4. [Screenshots / Démonstration](#-screenshots--démonstration)  
 5. [Licence](#-licence)
-6. [Droits d’auteur & Dérivés](#-droits-dauteur--dérivés)
+6. [Droits d’auteur & Dérivés](#droits)
 7. [Crédits](#-crédits)  
 8. [Code source](#-code-source)
 9. [Bot prêt à l'emploi](#-bot-universel)
@@ -137,6 +137,7 @@ Altera est distribué sous **GNU AGPL v3**.
 ✨ **Altéra restera toujours gratuit et accessible — par le peuple, pour le peuple.**
 
 ---
+<a id="droits"></a>
 
 ## ⚖️ Droits d’auteur & Dérivés
 
