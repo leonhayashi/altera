@@ -23,10 +23,11 @@ Le bot est **libre et gratuit**, distribué sous licence **GNU AGPL v3**, garant
 2. [Commandes principales](#-commandes-principales)  
 3. [Quickstart](#-quickstart)  
 4. [Screenshots / Démonstration](#-screenshots--démonstration)  
-5. [Licence](#-licence)  
-6. [Crédits](#-crédits)  
-7. [Code source](#-code-source)
-8. [Bot prêt à l'emploi](#-bot-universel)
+5. [Licence](#-licence)
+6. [Droits d’auteur & Dérivés](#-droits-d'auteur-&-dérivés)
+7. [Crédits](#-crédits)  
+8. [Code source](#-code-source)
+9. [Bot prêt à l'emploi](#-bot-universel)
 
 
 ---
@@ -132,6 +133,25 @@ Altera est distribué sous **GNU AGPL v3**.
 * ✅ Même si le bot est hébergé comme service, le code source modifié doit rester accessible
 
 ✨ **Altéra restera toujours gratuit et accessible — par le peuple, pour le peuple.**
+
+---
+
+## ⚖️ Droits d’auteur & Dérivés
+
+Altéra est distribué sous licence **GNU AGPL v3**. Cela signifie que :
+
+* ✅ Vous pouvez utiliser, modifier et redistribuer le bot librement.  
+* ✅ Si vous hébergez une version modifiée du bot (même privée), vous **devez publier le code source modifié** sous la même licence.  
+* ✅ Vous pouvez changer le nom, l’identité visuelle ou ajouter des fonctionnalités, **mais vous devez conserver la mention de l’auteur original (Léon Hayashi et/ou Ishgar.net) et la licence AGPL v3**.  
+
+❌ Il est interdit de :  
+* Supprimer les crédits originaux  
+* Fermer le code ou le rendre propriétaire  
+* Revendiquer la paternité exclusive du projet original  
+
+👉 En cas de non-respect, cela constitue une **violation de licence**, et le dépôt ou le service pourra être signalé (par exemple via un **takedown DMCA GitHub**).  
+
+✨ En clair : vous êtes libres de créer vos propres forks ou dérivés, tant que l’esprit du projet reste **ouvert et accessible à tous — par le peuple, pour le peuple.**
 
 ---
 
