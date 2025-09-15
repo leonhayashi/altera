@@ -117,8 +117,6 @@ Pour envoyer un message proxifié :
 
 ## 🖼 Screenshots / Démonstration
 
-> Ici vous pouvez ajouter des images ou GIFs montrant le bot en action, par exemple :
-
 ![Altéra en action](./screenshots/front-example.gif)
 *Exemple de message proxifié par Altéra.*
 
