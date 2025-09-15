@@ -15,7 +15,7 @@
 Altéra est un bot Discord dédié au soutien des systèmes pluriels/TDI, permettant de gérer les membres de votre système et de proxifier facilement les messages.  
 Le bot est **libre et gratuit**, distribué sous licence **GNU AGPL v3**, garantissant que le code reste accessible à tous — **par le peuple, pour le peuple**.  
 
-✨ Altéra fait partie du **Hayashi BotSuit 林BS (林ボットスイート)**.
+✨ Altéra fait partie du **Hayashi BotSuit 林BS (林 ボットスイート)**.
 
 ---
 
@@ -36,6 +36,9 @@ Le bot est **libre et gratuit**, distribué sous licence **GNU AGPL v3**, garant
 
 ## 🚀 Installation
 
+Assurez-vous d'avoir **node.js** d'installé. Je vous recommande la version 18.
+[Télécharger NodeJS 18](https://nodejs.org/en/blog/release/v18.18.1)
+
 1. Clonez ce dépôt :
 ```bash
 git clone https://github.com/leonhayashi/altera.git
@@ -44,7 +47,7 @@ git clone https://github.com/leonhayashi/altera.git
 2. Installez les dépendances :
 
 ```bash
-npm install
+npm i
 ```
 
 3. Créez un fichier `.env` à la racine du projet avec votre token Discord, votre clientID et serverID et completez le `config.js` :
