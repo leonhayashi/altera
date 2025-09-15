@@ -149,7 +149,7 @@ Vous pouvez consulter et contribuer au code sur GitHub :
 ## 📂 Bot Universel
 
 Nous hébergeons le bot prêt à l'emploi directement, voici le lien pour l'ajouter à votre serveur ! :
-[Ajouter Altera](https://discord.com/oauth2/authorize?client_id=1413781657458053191&permissions=8&integration_type=0&scope=bot)
+[![Invite Bot](https://img.shields.io/badge/Invite%20Altéra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1413781657458053191&scope=bot%20applications.commands&permissions=8)
 
 
 ```
