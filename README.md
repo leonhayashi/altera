@@ -63,10 +63,18 @@ CLIENT_ID=VotreClientID
 GUILD_ID=VotreServerID
 ```
 
-4. Démarrez le bot :
+4. Déployez les commandes en test sur votre serveur ou en global :
 
 ```bash
-npm start
+node deploy-test-commands.js
+// Ou
+node deploy-commands.js
+```
+
+5. Démarrez le bot :
+
+```bash
+node .
 ```
 
 ---
